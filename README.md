@@ -5,7 +5,7 @@ npm install
 npm run dev
 ```
 
-# Scripts
+# Scripts:
 
 - **npm run lint** (testing)
 - **npm run prettier** (formating)
