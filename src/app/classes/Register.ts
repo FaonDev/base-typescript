@@ -3,6 +3,8 @@ import { globSync } from "glob";
 
 export default class Register {
   constructor(public reference: Client) {
+    this, reference.login(process.env.TOKEN);
+
     this.setCommands();
     this.setEvents();
   }

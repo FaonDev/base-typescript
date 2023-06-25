@@ -5,6 +5,4 @@ export const Application = new Client({
   intents: [],
 });
 
-Application.login(process.env.TOKEN);
-
 new Register(Application);
