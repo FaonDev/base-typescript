@@ -7,5 +7,5 @@ npm run dev
 
 # Scripts
 
-**npm run lint** (testing)
-**npm run prettier** (formating)
+- **npm run lint** (testing)
+- **npm run prettier** (formating)
