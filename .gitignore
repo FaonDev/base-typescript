@@ -1,0 +1,6 @@
+# Hide Node.js modules
+package-lock.json
+node_modules
+
+# Hide environment variables
+.env
